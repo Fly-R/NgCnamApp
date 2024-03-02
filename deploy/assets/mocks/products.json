@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Pommes biologiques",
+      "description": "Des pommes juteuses et croquantes, cultivées de manière biologique pour une fraîcheur optimale.",
+      "price": 2.99
+    },
+    {
+      "id": 2,
+      "name": "Ananas sucré",
+      "description": "Ananas mûr à point, délicieusement sucré et rafraîchissant. Parfait pour une pause fruitée.",
+      "price": 4.49
+    },
+    {
+      "id": 3,
+      "name": "Fraises fraîches",
+      "description": "Fraises rouges et succulentes, cueillies à la perfection pour une explosion de saveurs.",
+      "price": 3.99
+    },
+    {
+      "id": 4,
+      "name": "Bananes énergétiques",
+      "description": "Bananes riches en potassium, idéales pour une collation énergétique et saine.",
+      "price": 1.79
+    },
+    {
+      "id": 5,
+      "name": "Mangues exotiques",
+      "description": "Mangues juteuses et exotiques, une expérience tropicale dans chaque bouchée.",
+      "price": 5.29
+    }
+  ]
+  
