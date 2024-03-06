@@ -1,33 +1,92 @@
 [
-    {
-      "id": 1,
-      "name": "Pommes biologiques",
-      "description": "Des pommes juteuses et croquantes, cultivées de manière biologique pour une fraîcheur optimale.",
-      "price": 2.99
-    },
-    {
-      "id": 2,
-      "name": "Ananas sucré",
-      "description": "Ananas mûr à point, délicieusement sucré et rafraîchissant. Parfait pour une pause fruitée.",
-      "price": 4.49
-    },
-    {
-      "id": 3,
-      "name": "Fraises fraîches",
-      "description": "Fraises rouges et succulentes, cueillies à la perfection pour une explosion de saveurs.",
-      "price": 3.99
-    },
-    {
-      "id": 4,
-      "name": "Bananes énergétiques",
-      "description": "Bananes riches en potassium, idéales pour une collation énergétique et saine.",
-      "price": 1.79
-    },
-    {
-      "id": 5,
-      "name": "Mangues exotiques",
-      "description": "Mangues juteuses et exotiques, une expérience tropicale dans chaque bouchée.",
-      "price": 5.29
-    }
-  ]
-  
+  {    
+    "name": "Pommes biologiques",
+    "description": "Des pommes juteuses et croquantes, cultivées de manière biologique pour une fraîcheur optimale.",
+    "price": 2.99,
+    "type": "Fruit"
+  },
+  {    
+    "name": "Ananas sucré",
+    "description": "Ananas mûr à point, délicieusement sucré et rafraîchissant. Parfait pour une pause fruitée.",
+    "price": 4.49,
+    "type": "Fruit"
+  },
+  {
+    "name": "Fraises fraîches",
+    "description": "Fraises rouges et succulentes, cueillies à la perfection pour une explosion de saveurs.",
+    "price": 3.99,
+    "type": "Fruit"
+  },
+  {    
+    "name": "Bananes énergétiques",
+    "description": "Bananes riches en potassium, idéales pour une collation énergétique et saine.",
+    "price": 1.79,
+    "type": "Fruit"
+  },
+  {    
+    "name": "Mangues exotiques",
+    "description": "Mangues juteuses et exotiques, une expérience tropicale dans chaque bouchée.",
+    "price": 5.29,
+    "type": "Fruit"
+  },
+  {    
+    "name": "Carottes bio",
+    "description": "Carottes fraîches et nutritives, cultivées de manière biologique pour une saveur optimale.",
+    "price": 1.99,
+    "type": "Légume"
+  },
+  {    
+    "name": "Brocolis frais",
+    "description": "Brocolis verts et croquants, cultivés avec soin pour une expérience gustative exceptionnelle.",
+    "price": 2.49,
+    "type": "Légume"
+  },
+  {    
+    "name": "Courgettes biologiques",
+    "description": "Courgettes tendres et délicieuses, cultivées de manière biologique pour une qualité optimale.",
+    "price": 1.79,
+    "type": "Légume"
+  },
+  {    
+    "name": "Épinards frais",
+    "description": "Épinards verts et riches en nutriments, récoltés à la perfection pour une alimentation saine.",
+    "price": 2.29,
+    "type": "Légume"
+  },
+  {    
+    "name": "Tomates cerises bio",
+    "description": "Tomates cerises sucrées et juteuses, cultivées de manière biologique pour une explosion de saveurs.",
+    "price": 2.99,
+    "type": "Légume"
+  },
+  {    
+    "name": "Jus d'orange frais",
+    "description": "Jus d'orange pur et rafraîchissant, pressé à partir d'oranges fraîchement cueillies.",
+    "price": 3.49,
+    "type": "Boisson"
+  },
+  {  
+    "name": "Kong Strong",
+    "description": "Boisson énergisante Kong Strong de Lidl, pour une dose de vitalité et de fraîcheur.",
+    "price": 1.49,
+    "type": "Boisson"
+  },
+  {    
+    "name": "Thé vert biologique",
+    "description": "Thé vert revitalisant, cultivé de manière biologique pour une expérience apaisante et énergisante.",
+    "price": 2.79,
+    "type": "Boisson"
+  },
+  {    
+    "name": "Café arabica premium",
+    "description": "Café arabica de qualité supérieure, torréfié avec soin pour une saveur intense et riche.",
+    "price": 4.99,
+    "type": "Boisson"
+  },
+  {    
+    "name": "Smoothie aux fruits rouges",
+    "description": "Smoothie délicieux et nutritif, préparé avec des fruits rouges frais pour une explosion de saveurs.",
+    "price": 3.29,
+    "type": "Boisson"
+  }
+]
